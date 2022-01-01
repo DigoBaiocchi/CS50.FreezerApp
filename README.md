@@ -1,5 +1,6 @@
 # CS50.FreezerApp
 This is my final project for CS50. For this project I used Javascript, HTML, bootstrap for CSS, the framework used was Express js and SQLite for the database. I wanted to solve a problem I have had for some time. In my home we usually buy a good amount of meat and freeze it. We have a big freezer so sometimes we forget what we have in our freezer and when we added a particular item to our freezer. So I decided to create a Freezer App, where it tracks all items in our freezer and sorts the freezer items by Expiration date, so we know which items to use next.
+For this application make sure you have install node.js, sqlite3, express js and for the server I used nodemon
 
 ## server.js
 It contains express server, where it manages the different routes for each page
